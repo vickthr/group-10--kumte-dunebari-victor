@@ -1,0 +1,1001 @@
+Fruit,Color,Origin,Quantity,Price_per_Unit,Total_Price
+Guava,Purple,Mexico,85,3.68,312.8
+Guava,Orange,Spain,47,3.68,172.96
+Apple,Purple,Brazil,84,3.23,271.32
+Banana,Green,Spain,23,3.51,80.73
+Mango,Pink,Brazil,3,3.52,10.56
+Mango,Red,China,51,0.6,30.6
+Orange,Purple,Spain,20,2.4,48.0
+Mango,Purple,China,32,2.77,88.64
+Papaya,Orange,South Africa,48,4.24,203.52
+Papaya,Pink,USA,75,3.69,276.75
+Orange,Purple,Brazil,75,2.72,204.0
+Orange,Green,Brazil,62,1.26,78.12
+Papaya,Yellow,Nigeria,76,1.84,139.84
+Pineapple,Pink,Nigeria,55,3.24,178.2
+Papaya,Green,Brazil,74,2.64,195.36
+Apple,Purple,Mexico,54,1.78,96.12
+Orange,Pink,China,81,4.58,370.98
+Watermelon,Purple,Nigeria,25,4.19,104.75
+Banana,Pink,Brazil,86,4.99,429.14
+Pineapple,Green,Spain,97,2.28,221.16
+Papaya,Orange,USA,88,4.46,392.48
+Apple,Red,Nigeria,26,3.33,86.58
+Pineapple,Purple,India,23,4.08,93.84
+Orange,Pink,South Africa,51,2.66,135.66
+Banana,Yellow,India,15,4.96,74.4
+Orange,Orange,China,13,4.11,53.43
+Pineapple,Red,USA,57,0.88,50.16
+Banana,Pink,Nigeria,58,0.86,49.88
+Orange,Green,Spain,18,2.43,43.74
+Orange,Green,South Africa,22,3.59,78.98
+Watermelon,Pink,China,56,4.35,243.6
+Grapes,Yellow,USA,66,0.98,64.68
+Guava,Green,Spain,61,2.86,174.46
+Guava,Yellow,Spain,60,4.93,295.8
+Watermelon,Red,China,3,3.41,10.23
+Pineapple,Purple,India,51,4.65,237.15
+Guava,Orange,South Africa,97,4.98,483.06
+Mango,Pink,Nigeria,14,4.64,64.96
+Watermelon,Yellow,India,68,1.58,107.44
+Mango,Purple,USA,4,1.86,7.44
+Watermelon,Yellow,China,1,3.76,3.76
+Banana,Red,Mexico,73,4.12,300.76
+Pineapple,Yellow,China,68,3.08,209.44
+Strawberry,Pink,Mexico,36,1.8,64.8
+Apple,Pink,USA,56,4.29,240.24
+Guava,Orange,Spain,7,4.3,30.1
+Banana,Red,USA,51,3.13,159.63
+Pineapple,Purple,China,94,3.15,296.1
+Banana,Purple,Brazil,48,2.61,125.28
+Apple,Pink,India,16,1.38,22.08
+Orange,Orange,India,24,0.79,18.96
+Papaya,Purple,Mexico,89,2.83,251.87
+Pineapple,Pink,South Africa,37,2.64,97.68
+Guava,Yellow,Nigeria,100,4.57,457.0
+Pineapple,Red,USA,9,2.82,25.38
+Watermelon,Yellow,Spain,93,2.66,247.38
+Mango,Green,India,61,3.82,233.02
+Mango,Pink,Nigeria,16,3.56,56.96
+Mango,Red,Brazil,75,4.52,339.0
+Pineapple,Red,South Africa,81,2.09,169.29
+Apple,Purple,India,62,3.46,214.52
+Mango,Purple,China,14,0.91,12.74
+Grapes,Purple,India,88,2.63,231.44
+Papaya,Orange,Nigeria,30,4.89,146.7
+Grapes,Orange,Spain,53,2.97,157.41
+Mango,Orange,Mexico,41,1.55,63.55
+Apple,Orange,China,36,4.9,176.4
+Watermelon,Pink,China,38,4.74,180.12
+Guava,Purple,Brazil,18,3.43,61.74
+Pineapple,Red,Brazil,58,3.19,185.02
+Mango,Orange,India,47,3.6,169.2
+Banana,Red,South Africa,21,3.3,69.3
+Guava,Orange,India,59,3.42,201.78
+Guava,Yellow,India,87,1.13,98.31
+Strawberry,Yellow,India,52,4.55,236.6
+Apple,Orange,China,81,2.31,187.11
+Banana,Red,India,59,2.22,130.98
+Papaya,Green,Spain,22,3.85,84.7
+Orange,Red,China,2,1.88,3.76
+Strawberry,Yellow,China,69,1.75,120.75
+Guava,Purple,USA,34,1.97,66.98
+Banana,Yellow,Mexico,94,0.59,55.46
+Strawberry,Pink,Brazil,95,1.45,137.75
+Apple,Purple,Brazil,4,3.41,13.64
+Banana,Purple,Nigeria,51,1.13,57.63
+Mango,Green,Brazil,52,3.39,176.28
+Papaya,Orange,India,26,4.31,112.06
+Watermelon,Pink,Mexico,24,3.85,92.4
+Watermelon,Orange,South Africa,98,2.93,287.14
+Papaya,Yellow,Brazil,6,1.39,8.34
+Papaya,Purple,Brazil,74,3.57,264.18
+Grapes,Yellow,Spain,79,4.43,349.97
+Apple,Green,USA,47,4.98,234.06
+Mango,Green,India,97,1.47,142.59
+Mango,Pink,Mexico,99,4.07,402.93
+Orange,Purple,China,98,0.88,86.24
+Banana,Purple,South Africa,8,3.87,30.96
+Guava,Pink,USA,90,1.17,105.3
+Apple,Red,Brazil,88,4.6,404.8
+Watermelon,Green,Spain,4,2.01,8.04
+Papaya,Orange,India,72,2.68,192.96
+Watermelon,Green,Mexico,68,4.92,334.56
+Watermelon,Purple,Brazil,13,3.63,47.19
+Watermelon,Purple,Nigeria,66,1.08,71.28
+Papaya,Orange,India,55,1.21,66.55
+Guava,Orange,Nigeria,69,4.3,296.7
+Watermelon,Orange,Spain,93,0.7,65.1
+Orange,Pink,China,16,3.41,54.56
+Pineapple,Orange,Mexico,59,1.53,90.27
+Grapes,Green,China,21,0.63,13.23
+Apple,Red,China,86,4.31,370.66
+Grapes,Purple,Mexico,72,3.86,277.92
+Orange,Green,China,32,3.51,112.32
+Strawberry,Red,Spain,70,2.3,161.0
+Watermelon,Pink,South Africa,69,2.23,153.87
+Pineapple,Orange,Nigeria,98,0.91,89.18
+Apple,Red,Spain,48,1.31,62.88
+Apple,Red,China,11,4.39,48.29
+Grapes,Orange,India,81,2.58,208.98
+Apple,Red,Spain,79,4.89,386.31
+Apple,Red,South Africa,8,2.64,21.12
+Apple,Yellow,Nigeria,80,2.56,204.8
+Watermelon,Orange,Brazil,84,2.2,184.8
+Apple,Green,China,58,1.77,102.66
+Banana,Green,China,73,1.12,81.76
+Papaya,Pink,Brazil,62,3.49,216.38
+Papaya,Yellow,USA,59,1.64,96.76
+Watermelon,Pink,Spain,19,4.42,83.98
+Banana,Purple,India,53,1.66,87.98
+Orange,Red,Nigeria,59,2.11,124.49
+Strawberry,Purple,Brazil,98,1.26,123.48
+Apple,Red,Brazil,35,4.36,152.6
+Pineapple,Orange,India,35,2.5,87.5
+Mango,Purple,India,91,3.36,305.76
+Orange,Yellow,South Africa,58,4.62,267.96
+Guava,Purple,USA,58,0.58,33.64
+Apple,Yellow,Mexico,94,4.8,451.2
+Strawberry,Pink,China,66,0.5,33.0
+Papaya,Orange,Nigeria,99,0.92,91.08
+Guava,Yellow,China,75,3.15,236.25
+Apple,Pink,China,36,3.97,142.92
+Watermelon,Pink,China,46,4.79,220.34
+Strawberry,Orange,Mexico,59,1.61,94.99
+Guava,Green,Nigeria,78,3.28,255.84
+Banana,Purple,China,52,4.04,210.08
+Guava,Pink,Spain,2,4.2,8.4
+Strawberry,Pink,Nigeria,54,2.7,145.8
+Grapes,Pink,China,42,4.82,202.44
+Papaya,Purple,India,56,3.45,193.2
+Papaya,Orange,USA,1,4.16,4.16
+Banana,Red,Spain,22,0.59,12.98
+Apple,Red,Spain,34,2.68,91.12
+Grapes,Red,South Africa,47,1.2,56.4
+Grapes,Green,Brazil,13,3.36,43.68
+Orange,Green,Nigeria,88,4.62,406.56
+Banana,Green,Mexico,34,0.67,22.78
+Guava,Yellow,China,85,0.58,49.3
+Grapes,Red,Spain,5,2.3,11.5
+Orange,Yellow,South Africa,50,3.51,175.5
+Guava,Pink,Brazil,28,1.84,51.52
+Apple,Yellow,South Africa,40,1.88,75.2
+Papaya,Purple,Spain,87,1.3,113.1
+Mango,Red,Nigeria,21,3.7,77.7
+Strawberry,Orange,China,3,1.5,4.5
+Papaya,Purple,India,22,2.01,44.22
+Guava,Pink,South Africa,12,0.97,11.64
+Pineapple,Red,South Africa,20,2.78,55.6
+Mango,Orange,Brazil,74,2.96,219.04
+Strawberry,Purple,China,69,0.69,47.61
+Watermelon,Yellow,China,53,4.67,247.51
+Watermelon,Red,USA,45,4.19,188.55
+Grapes,Orange,Spain,14,3.57,49.98
+Papaya,Orange,Mexico,24,2.3,55.2
+Banana,Red,Brazil,2,1.02,2.04
+Mango,Yellow,Nigeria,62,1.32,81.84
+Banana,Purple,South Africa,93,4.85,451.05
+Grapes,Green,USA,70,4.01,280.7
+Strawberry,Green,South Africa,27,1.7,45.9
+Mango,Pink,China,82,2.18,178.76
+Guava,Orange,South Africa,94,1.85,173.9
+Watermelon,Red,Brazil,24,1.84,44.16
+Grapes,Yellow,India,17,2.26,38.42
+Watermelon,Green,China,57,2.63,149.91
+Strawberry,Purple,Brazil,13,3.46,44.98
+Watermelon,Green,Mexico,58,3.03,175.74
+Orange,Yellow,Mexico,30,3.68,110.4
+Apple,Pink,Mexico,30,3.18,95.4
+Banana,Orange,USA,100,3.17,317.0
+Orange,Yellow,USA,42,2.42,101.64
+Papaya,Yellow,South Africa,16,2.96,47.36
+Guava,Green,South Africa,17,2.64,44.88
+Apple,Orange,Spain,87,1.92,167.04
+Watermelon,Red,India,38,0.67,25.46
+Banana,Purple,Spain,60,3.74,224.4
+Grapes,Yellow,Mexico,82,0.86,70.52
+Orange,Pink,Brazil,97,4.87,472.39
+Grapes,Red,South Africa,17,2.09,35.53
+Orange,Yellow,USA,86,1.26,108.36
+Orange,Green,Mexico,59,1.16,68.44
+Guava,Orange,Nigeria,68,4.41,299.88
+Pineapple,Red,USA,89,4.77,424.53
+Grapes,Green,USA,64,0.81,51.84
+Mango,Orange,India,23,0.78,17.94
+Pineapple,Orange,South Africa,14,0.87,12.18
+Apple,Purple,Nigeria,15,3.65,54.75
+Orange,Pink,Spain,44,0.56,24.64
+Pineapple,Pink,South Africa,33,2.53,83.49
+Guava,Yellow,India,32,0.55,17.6
+Grapes,Red,Mexico,99,3.18,314.82
+Pineapple,Purple,USA,93,1.63,151.59
+Papaya,Red,Spain,10,2.5,25.0
+Strawberry,Yellow,Nigeria,21,4.79,100.59
+Watermelon,Purple,Mexico,77,1.1,84.7
+Pineapple,Orange,China,85,0.68,57.8
+Grapes,Purple,China,10,1.28,12.8
+Guava,Purple,USA,14,1.07,14.98
+Apple,Red,Spain,87,4.09,355.83
+Papaya,Green,India,17,2.17,36.89
+Pineapple,Green,Spain,42,1.96,82.32
+Orange,Orange,China,35,2.46,86.1
+Banana,Purple,China,13,2.09,27.17
+Pineapple,Pink,Mexico,4,1.75,7.0
+Mango,Orange,India,23,3.58,82.34
+Strawberry,Purple,Mexico,9,3.62,32.58
+Papaya,Purple,Nigeria,3,4.65,13.95
+Apple,Red,Mexico,55,4.19,230.45
+Pineapple,Yellow,USA,36,4.55,163.8
+Strawberry,Red,Brazil,85,3.88,329.8
+Guava,Orange,South Africa,79,3.49,275.71
+Papaya,Purple,Nigeria,76,2.93,222.68
+Guava,Green,Brazil,4,1.83,7.32
+Strawberry,Red,Nigeria,26,1.81,47.06
+Banana,Purple,Nigeria,42,4.69,196.98
+Apple,Green,China,55,4.02,221.1
+Apple,Pink,USA,5,0.77,3.85
+Orange,Red,South Africa,35,0.84,29.4
+Pineapple,Green,Nigeria,91,4.59,417.69
+Grapes,Pink,Brazil,13,0.75,9.75
+Pineapple,Pink,Spain,91,0.65,59.15
+Watermelon,Orange,Mexico,77,3.78,291.06
+Grapes,Pink,India,9,4.97,44.73
+Pineapple,Green,Spain,34,3.34,113.56
+Orange,Yellow,South Africa,30,1.27,38.1
+Papaya,Green,Nigeria,10,1.44,14.4
+Apple,Yellow,South Africa,94,3.58,336.52
+Strawberry,Pink,South Africa,52,0.94,48.88
+Strawberry,Purple,Nigeria,89,1.28,113.92
+Banana,Yellow,Nigeria,59,4.29,253.11
+Papaya,Orange,Spain,80,4.21,336.8
+Pineapple,Green,Nigeria,80,2.17,173.6
+Banana,Pink,South Africa,15,3.51,52.65
+Grapes,Pink,Brazil,57,0.86,49.02
+Pineapple,Orange,China,89,3.63,323.07
+Papaya,Orange,Nigeria,39,3.61,140.79
+Orange,Yellow,Mexico,12,2.87,34.44
+Watermelon,Pink,Nigeria,23,2.44,56.12
+Apple,Red,Mexico,1,0.69,0.69
+Apple,Red,Nigeria,59,3.68,217.12
+Papaya,Purple,South Africa,28,2.5,70.0
+Guava,Red,USA,44,4.14,182.16
+Strawberry,Orange,China,98,3.86,378.28
+Mango,Green,Spain,37,2.18,80.66
+Guava,Red,Nigeria,77,0.91,70.07
+Guava,Red,Mexico,67,4.38,293.46
+Strawberry,Red,Spain,71,3.12,221.52
+Papaya,Orange,India,6,0.79,4.74
+Pineapple,Purple,Nigeria,57,4.11,234.27
+Guava,Orange,China,95,3.4,323.0
+Pineapple,Orange,USA,32,1.41,45.12
+Grapes,Purple,Brazil,35,3.81,133.35
+Watermelon,Green,USA,17,1.19,20.23
+Watermelon,Red,Spain,32,2.91,93.12
+Pineapple,Yellow,China,7,0.81,5.67
+Apple,Pink,Nigeria,39,3.72,145.08
+Banana,Orange,Spain,75,2.0,150.0
+Banana,Yellow,Mexico,28,4.46,124.88
+Strawberry,Yellow,Nigeria,6,0.69,4.14
+Guava,Red,Nigeria,92,2.18,200.56
+Strawberry,Pink,Nigeria,9,3.03,27.27
+Papaya,Green,Spain,28,2.23,62.44
+Apple,Green,Nigeria,90,3.75,337.5
+Strawberry,Pink,India,96,0.85,81.6
+Strawberry,Red,Mexico,16,2.54,40.64
+Watermelon,Purple,Mexico,10,0.91,9.1
+Orange,Green,Spain,11,1.79,19.69
+Watermelon,Orange,Nigeria,21,4.51,94.71
+Grapes,Yellow,Spain,85,2.83,240.55
+Banana,Pink,India,33,2.78,91.74
+Mango,Red,USA,45,2.7,121.5
+Mango,Purple,South Africa,27,4.96,133.92
+Guava,Green,Nigeria,57,3.26,185.82
+Papaya,Pink,Brazil,47,1.09,51.23
+Watermelon,Pink,USA,48,4.09,196.32
+Grapes,Red,Spain,2,4.22,8.44
+Apple,Purple,South Africa,61,3.82,233.02
+Mango,Purple,Brazil,48,3.8,182.4
+Orange,Pink,Nigeria,100,4.84,484.0
+Banana,Orange,South Africa,81,1.97,159.57
+Pineapple,Yellow,USA,82,3.77,309.14
+Pineapple,Purple,China,6,1.65,9.9
+Banana,Green,South Africa,62,1.79,110.98
+Banana,Purple,Mexico,23,4.62,106.26
+Papaya,Yellow,China,70,3.49,244.3
+Pineapple,Orange,Spain,53,4.6,243.8
+Mango,Pink,Mexico,12,4.8,57.6
+Mango,Orange,Spain,26,4.19,108.94
+Apple,Orange,South Africa,49,4.51,220.99
+Banana,Orange,Nigeria,52,2.24,116.48
+Mango,Red,Nigeria,41,2.83,116.03
+Banana,Green,USA,99,2.68,265.32
+Strawberry,Yellow,China,54,4.45,240.3
+Grapes,Red,India,7,3.84,26.88
+Banana,Green,India,66,1.24,81.84
+Strawberry,Yellow,India,97,1.84,178.48
+Pineapple,Green,China,6,1.84,11.04
+Guava,Pink,South Africa,32,2.06,65.92
+Mango,Orange,Brazil,69,1.71,117.99
+Orange,Red,Mexico,10,4.7,47.0
+Orange,Pink,Brazil,74,3.18,235.32
+Guava,Pink,Spain,28,4.19,117.32
+Guava,Red,Nigeria,45,3.46,155.7
+Orange,Green,South Africa,24,4.17,100.08
+Orange,Purple,Brazil,98,2.3,225.4
+Banana,Pink,Brazil,60,4.89,293.4
+Watermelon,Purple,China,76,1.68,127.68
+Orange,Purple,Mexico,9,2.82,25.38
+Orange,Orange,Spain,49,4.08,199.92
+Watermelon,Orange,Brazil,70,2.59,181.3
+Banana,Green,China,26,2.73,70.98
+Pineapple,Yellow,China,44,1.49,65.56
+Banana,Red,Brazil,6,2.3,13.8
+Papaya,Yellow,South Africa,74,3.51,259.74
+Papaya,Yellow,China,24,2.81,67.44
+Mango,Purple,Spain,65,2.95,191.75
+Watermelon,Purple,Nigeria,98,3.15,308.7
+Apple,Red,Brazil,89,3.55,315.95
+Banana,Purple,Nigeria,89,2.18,194.02
+Grapes,Orange,China,33,4.26,140.58
+Mango,Purple,China,27,4.1,110.7
+Orange,Red,Mexico,11,3.62,39.82
+Watermelon,Pink,Brazil,61,1.43,87.23
+Pineapple,Pink,South Africa,63,1.78,112.14
+Strawberry,Red,Mexico,96,0.69,66.24
+Mango,Yellow,Spain,75,1.44,108.0
+Pineapple,Green,Brazil,76,3.12,237.12
+Guava,Yellow,Spain,2,2.38,4.76
+Grapes,Red,Nigeria,4,2.96,11.84
+Banana,Red,Nigeria,27,0.65,17.55
+Strawberry,Green,Spain,16,1.76,28.16
+Pineapple,Red,India,41,3.46,141.86
+Mango,Purple,Spain,49,2.56,125.44
+Grapes,Green,South Africa,16,1.22,19.52
+Banana,Yellow,Mexico,50,1.91,95.5
+Guava,Pink,Brazil,67,4.24,284.08
+Banana,Pink,Brazil,63,2.82,177.66
+Apple,Red,Brazil,43,1.55,66.65
+Banana,Orange,USA,67,2.95,197.65
+Mango,Red,USA,1,3.71,3.71
+Strawberry,Purple,Mexico,98,3.81,373.38
+Strawberry,Purple,China,33,4.77,157.41
+Orange,Orange,Spain,97,2.95,286.15
+Apple,Yellow,China,26,2.69,69.94
+Watermelon,Pink,USA,76,2.92,221.92
+Orange,Green,South Africa,56,3.64,203.84
+Banana,Pink,India,24,0.78,18.72
+Watermelon,Pink,India,86,4.59,394.74
+Grapes,Orange,USA,51,1.7,86.7
+Guava,Purple,Mexico,14,0.73,10.22
+Strawberry,Orange,USA,82,1.8,147.6
+Papaya,Pink,India,41,3.85,157.85
+Grapes,Orange,Nigeria,98,0.65,63.7
+Pineapple,Purple,Mexico,75,4.37,327.75
+Orange,Pink,Spain,21,4.81,101.01
+Mango,Red,China,15,2.37,35.55
+Pineapple,Yellow,USA,70,3.38,236.6
+Orange,Green,Mexico,72,4.66,335.52
+Watermelon,Purple,Mexico,68,3.4,231.2
+Papaya,Yellow,Mexico,34,1.22,41.48
+Grapes,Green,China,24,2.89,69.36
+Banana,Green,China,62,2.75,170.5
+Guava,Pink,Spain,92,3.96,364.32
+Strawberry,Orange,China,60,4.92,295.2
+Banana,Pink,India,48,4.53,217.44
+Guava,Green,USA,62,4.93,305.66
+Orange,Pink,South Africa,66,3.4,224.4
+Banana,Red,South Africa,59,2.33,137.47
+Mango,Yellow,Spain,46,1.86,85.56
+Pineapple,Orange,China,94,1.05,98.7
+Apple,Purple,Nigeria,77,4.94,380.38
+Papaya,Pink,Brazil,2,2.81,5.62
+Pineapple,Purple,Mexico,100,3.24,324.0
+Strawberry,Pink,Nigeria,52,4.81,250.12
+Strawberry,Yellow,Spain,28,1.0,28.0
+Strawberry,Green,USA,91,3.2,291.2
+Apple,Orange,USA,15,3.21,48.15
+Pineapple,Orange,China,73,4.79,349.67
+Guava,Pink,South Africa,24,4.3,103.2
+Papaya,Purple,China,96,1.07,102.72
+Orange,Red,China,28,2.05,57.4
+Banana,Yellow,Nigeria,94,1.52,142.88
+Grapes,Yellow,India,79,2.67,210.93
+Watermelon,Yellow,Brazil,95,2.52,239.4
+Mango,Pink,Spain,46,3.05,140.3
+Guava,Green,Mexico,28,2.04,57.12
+Apple,Purple,Nigeria,6,4.94,29.64
+Mango,Green,Mexico,44,4.22,185.68
+Grapes,Purple,Spain,1,0.63,0.63
+Watermelon,Purple,Mexico,93,4.88,453.84
+Guava,Pink,South Africa,45,4.11,184.95
+Apple,Purple,Nigeria,66,2.61,172.26
+Banana,Green,India,10,4.45,44.5
+Watermelon,Red,India,93,2.1,195.3
+Mango,Pink,South Africa,63,0.9,56.7
+Papaya,Green,Nigeria,2,1.88,3.76
+Strawberry,Pink,Brazil,11,3.23,35.53
+Guava,Orange,Brazil,19,2.22,42.18
+Papaya,Red,Brazil,88,3.19,280.72
+Pineapple,Red,Spain,57,3.18,181.26
+Mango,Green,Brazil,83,1.16,96.28
+Grapes,Pink,India,11,4.47,49.17
+Mango,Yellow,South Africa,84,1.97,165.48
+Grapes,Green,Mexico,47,3.07,144.29
+Watermelon,Pink,Nigeria,57,3.13,178.41
+Pineapple,Yellow,Nigeria,85,1.84,156.4
+Mango,Green,Spain,26,3.41,88.66
+Guava,Yellow,Brazil,20,4.91,98.2
+Grapes,Pink,India,86,4.46,383.56
+Apple,Yellow,South Africa,73,3.31,241.63
+Papaya,Orange,USA,49,2.64,129.36
+Papaya,Purple,Mexico,48,0.81,38.88
+Mango,Pink,China,94,1.97,185.18
+Orange,Green,China,59,4.76,280.84
+Banana,Yellow,Mexico,49,4.01,196.49
+Pineapple,Red,USA,7,3.4,23.8
+Apple,Red,South Africa,47,0.87,40.89
+Pineapple,Purple,Nigeria,12,3.81,45.72
+Papaya,Green,India,97,2.58,250.26
+Watermelon,Red,South Africa,17,2.68,45.56
+Banana,Green,Nigeria,48,4.08,195.84
+Mango,Purple,India,39,2.24,87.36
+Banana,Green,Spain,2,0.92,1.84
+Watermelon,Yellow,China,10,2.38,23.8
+Apple,Red,South Africa,76,3.81,289.56
+Mango,Red,Spain,9,1.64,14.76
+Apple,Purple,Spain,39,3.74,145.86
+Grapes,Orange,Brazil,19,0.67,12.73
+Pineapple,Yellow,Brazil,87,1.51,131.37
+Orange,Green,Nigeria,47,2.88,135.36
+Grapes,Red,South Africa,27,0.5,13.5
+Guava,Yellow,USA,89,1.6,142.4
+Guava,Pink,Mexico,26,4.04,105.04
+Mango,Pink,Nigeria,13,2.66,34.58
+Watermelon,Pink,USA,1,1.25,1.25
+Pineapple,Orange,India,14,1.38,19.32
+Strawberry,Pink,Spain,94,1.31,123.14
+Papaya,Yellow,Spain,79,2.23,176.17
+Grapes,Red,South Africa,40,3.75,150.0
+Papaya,Green,Mexico,54,3.99,215.46
+Apple,Orange,India,95,1.41,133.95
+Apple,Red,Nigeria,68,3.71,252.28
+Mango,Yellow,Nigeria,82,1.19,97.58
+Papaya,Red,Spain,41,3.45,141.45
+Strawberry,Green,India,36,4.77,171.72
+Mango,Orange,Spain,46,1.88,86.48
+Pineapple,Purple,USA,81,1.34,108.54
+Guava,Red,Spain,16,2.51,40.16
+Banana,Purple,South Africa,59,4.58,270.22
+Orange,Green,China,87,4.23,368.01
+Papaya,Yellow,Brazil,90,0.55,49.5
+Mango,Green,Mexico,46,3.59,165.14
+Papaya,Red,Nigeria,99,1.95,193.05
+Orange,Orange,Mexico,53,3.79,200.87
+Watermelon,Orange,Spain,9,2.5,22.5
+Strawberry,Purple,Brazil,14,3.37,47.18
+Grapes,Green,Brazil,42,1.31,55.02
+Pineapple,Orange,Mexico,18,4.27,76.86
+Papaya,Orange,Brazil,1,4.43,4.43
+Watermelon,Purple,Spain,36,2.57,92.52
+Watermelon,Orange,India,4,4.49,17.96
+Strawberry,Purple,South Africa,46,3.07,141.22
+Orange,Orange,South Africa,19,4.69,89.11
+Banana,Yellow,Mexico,37,0.7,25.9
+Banana,Purple,Mexico,63,2.55,160.65
+Strawberry,Purple,Spain,87,4.26,370.62
+Mango,Pink,China,4,4.5,18.0
+Strawberry,Yellow,Nigeria,53,3.97,210.41
+Mango,Red,Brazil,14,3.38,47.32
+Orange,Purple,USA,72,4.21,303.12
+Apple,Purple,Spain,21,0.97,20.37
+Watermelon,Pink,Spain,1,4.83,4.83
+Guava,Pink,China,11,3.46,38.06
+Papaya,Green,USA,19,3.25,61.75
+Grapes,Red,Nigeria,26,2.15,55.9
+Watermelon,Purple,India,13,5.0,65.0
+Strawberry,Purple,USA,36,1.2,43.2
+Watermelon,Orange,South Africa,78,2.0,156.0
+Pineapple,Red,India,59,4.6,271.4
+Guava,Pink,Brazil,86,4.54,390.44
+Pineapple,Yellow,Brazil,22,3.81,83.82
+Apple,Yellow,India,5,0.63,3.15
+Papaya,Orange,India,77,3.05,234.85
+Watermelon,Green,South Africa,45,3.95,177.75
+Papaya,Pink,USA,32,3.59,114.88
+Mango,Green,Mexico,71,3.71,263.41
+Pineapple,Pink,Spain,93,2.43,225.99
+Orange,Orange,South Africa,54,2.52,136.08
+Grapes,Yellow,China,80,0.64,51.2
+Mango,Pink,Spain,28,2.29,64.12
+Strawberry,Red,Nigeria,21,4.71,98.91
+Grapes,Red,Mexico,28,2.16,60.48
+Pineapple,Pink,Brazil,28,2.29,64.12
+Apple,Purple,Mexico,92,0.58,53.36
+Pineapple,Purple,India,24,4.16,99.84
+Banana,Red,South Africa,90,1.38,124.2
+Papaya,Green,USA,60,1.36,81.6
+Watermelon,Green,India,21,1.91,40.11
+Banana,Green,China,21,4.27,89.67
+Pineapple,Orange,India,13,4.62,60.06
+Strawberry,Yellow,China,46,3.72,171.12
+Grapes,Pink,India,24,3.3,79.2
+Watermelon,Pink,South Africa,53,3.31,175.43
+Apple,Red,South Africa,1,3.66,3.66
+Pineapple,Orange,India,92,0.64,58.88
+Orange,Purple,Mexico,55,4.04,222.2
+Guava,Orange,Spain,48,4.82,231.36
+Pineapple,Purple,China,21,0.77,16.17
+Grapes,Pink,Brazil,39,2.5,97.5
+Watermelon,Green,Brazil,50,2.02,101.0
+Watermelon,Orange,India,91,4.04,367.64
+Pineapple,Yellow,USA,41,1.47,60.27
+Grapes,Pink,Mexico,54,3.74,201.96
+Apple,Green,Spain,20,1.93,38.6
+Watermelon,Green,South Africa,81,1.63,132.03
+Watermelon,Red,Mexico,23,3.22,74.06
+Guava,Red,India,77,1.99,153.23
+Grapes,Green,Nigeria,40,1.73,69.2
+Orange,Pink,China,68,4.35,295.8
+Banana,Green,India,90,2.72,244.8
+Mango,Pink,Nigeria,68,4.11,279.48
+Strawberry,Orange,South Africa,69,0.93,64.17
+Mango,Yellow,India,3,3.11,9.33
+Guava,Orange,Brazil,88,1.77,155.76
+Pineapple,Orange,South Africa,99,3.24,320.76
+Papaya,Purple,Nigeria,100,4.66,466.0
+Mango,Orange,USA,42,3.35,140.7
+Guava,Yellow,USA,98,2.75,269.5
+Strawberry,Yellow,Mexico,82,3.72,305.04
+Papaya,Green,USA,54,2.69,145.26
+Apple,Yellow,China,12,3.04,36.48
+Strawberry,Yellow,USA,49,0.69,33.81
+Papaya,Red,USA,37,4.27,157.99
+Pineapple,Purple,India,27,3.26,88.02
+Guava,Green,Spain,45,1.16,52.2
+Watermelon,Purple,Brazil,50,3.95,197.5
+Pineapple,Purple,South Africa,11,4.91,54.01
+Grapes,Purple,China,64,1.81,115.84
+Grapes,Yellow,Nigeria,68,1.43,97.24
+Strawberry,Orange,Spain,82,4.07,333.74
+Mango,Green,South Africa,23,2.17,49.91
+Grapes,Red,India,1,3.95,3.95
+Apple,Red,Spain,91,3.16,287.56
+Apple,Orange,Brazil,65,0.56,36.4
+Grapes,Yellow,South Africa,48,3.72,178.56
+Grapes,Yellow,Mexico,8,0.69,5.52
+Apple,Orange,USA,97,1.53,148.41
+Grapes,Purple,India,68,2.05,139.4
+Watermelon,Yellow,Brazil,95,2.12,201.4
+Banana,Red,USA,46,3.26,149.96
+Banana,Pink,South Africa,78,4.76,371.28
+Strawberry,Yellow,Spain,53,3.26,172.78
+Orange,Yellow,Nigeria,85,3.56,302.6
+Strawberry,Orange,Spain,40,2.25,90.0
+Guava,Red,Mexico,32,0.75,24.0
+Orange,Orange,USA,34,2.78,94.52
+Strawberry,Purple,India,95,3.08,292.6
+Mango,Orange,India,43,0.96,41.28
+Orange,Orange,Nigeria,36,2.16,77.76
+Orange,Red,Spain,33,0.83,27.39
+Apple,Pink,India,4,2.7,10.8
+Banana,Pink,Nigeria,98,1.65,161.7
+Banana,Red,India,12,1.49,17.88
+Guava,Pink,India,57,3.55,202.35
+Watermelon,Green,India,2,4.59,9.18
+Pineapple,Purple,Nigeria,54,4.78,258.12
+Banana,Pink,Spain,99,1.47,145.53
+Grapes,Green,Spain,46,3.75,172.5
+Apple,Pink,India,82,3.43,281.26
+Watermelon,Purple,India,63,1.13,71.19
+Papaya,Pink,USA,85,1.79,152.15
+Banana,Pink,Brazil,30,3.39,101.7
+Mango,Red,USA,40,0.89,35.6
+Banana,Purple,Mexico,94,2.54,238.76
+Papaya,Yellow,Spain,88,3.26,286.88
+Guava,Green,South Africa,67,2.48,166.16
+Grapes,Orange,Spain,96,1.71,164.16
+Papaya,Red,USA,67,4.84,324.28
+Banana,Purple,Brazil,29,3.03,87.87
+Grapes,Red,USA,54,1.6,86.4
+Banana,Green,Mexico,49,2.95,144.55
+Pineapple,Red,Spain,96,3.78,362.88
+Guava,Orange,Brazil,89,2.08,185.12
+Papaya,Yellow,China,94,1.67,156.98
+Grapes,Red,Spain,4,2.3,9.2
+Orange,Purple,Nigeria,9,4.89,44.01
+Strawberry,Red,China,35,3.21,112.35
+Pineapple,Pink,Spain,75,1.71,128.25
+Pineapple,Pink,Spain,80,1.01,80.8
+Orange,Purple,South Africa,92,4.05,372.6
+Papaya,Orange,China,75,4.19,314.25
+Strawberry,Pink,South Africa,54,1.86,100.44
+Strawberry,Pink,Brazil,64,0.77,49.28
+Pineapple,Purple,Mexico,77,2.5,192.5
+Banana,Orange,India,89,1.9,169.1
+Mango,Red,Mexico,39,2.39,93.21
+Watermelon,Orange,Spain,16,0.54,8.64
+Orange,Orange,Brazil,72,4.35,313.2
+Orange,Red,USA,92,4.71,433.32
+Papaya,Purple,Brazil,92,3.15,289.8
+Guava,Purple,Brazil,19,2.48,47.12
+Guava,Pink,India,19,1.38,26.22
+Papaya,Red,Mexico,93,2.21,205.53
+Watermelon,Orange,South Africa,99,2.34,231.66
+Apple,Orange,South Africa,33,4.51,148.83
+Grapes,Purple,Mexico,11,0.87,9.57
+Grapes,Green,South Africa,50,3.77,188.5
+Strawberry,Orange,China,28,4.2,117.6
+Watermelon,Green,Nigeria,9,2.81,25.29
+Guava,Pink,Nigeria,78,2.69,209.82
+Papaya,Purple,Spain,78,0.92,71.76
+Banana,Purple,Spain,53,1.78,94.34
+Pineapple,Pink,Nigeria,82,1.53,125.46
+Banana,Purple,Brazil,38,3.37,128.06
+Papaya,Green,India,36,2.88,103.68
+Strawberry,Green,Nigeria,28,1.54,43.12
+Orange,Purple,Nigeria,100,0.6,60.0
+Orange,Yellow,India,18,4.63,83.34
+Watermelon,Purple,Brazil,97,4.84,469.48
+Watermelon,Pink,Spain,18,1.69,30.42
+Grapes,Red,India,25,2.59,64.75
+Strawberry,Pink,China,12,1.4,16.8
+Apple,Orange,Nigeria,91,3.41,310.31
+Papaya,Green,Spain,93,4.66,433.38
+Guava,Pink,Mexico,90,3.37,303.3
+Strawberry,Yellow,Spain,46,4.88,224.48
+Orange,Pink,Spain,88,2.41,212.08
+Strawberry,Yellow,South Africa,98,3.6,352.8
+Papaya,Green,Spain,19,3.96,75.24
+Grapes,Purple,Nigeria,55,0.89,48.95
+Banana,Yellow,Spain,94,2.73,256.62
+Strawberry,Pink,USA,22,2.16,47.52
+Watermelon,Red,India,58,4.29,248.82
+Watermelon,Orange,Nigeria,21,1.16,24.36
+Banana,Red,Brazil,80,2.4,192.0
+Orange,Purple,India,64,4.62,295.68
+Watermelon,Red,India,88,3.37,296.56
+Mango,Green,India,66,1.15,75.9
+Grapes,Red,Brazil,59,2.21,130.39
+Mango,Orange,South Africa,37,3.76,139.12
+Grapes,Red,China,83,3.68,305.44
+Orange,Orange,Brazil,11,0.85,9.35
+Apple,Purple,Spain,84,3.25,273.0
+Grapes,Red,South Africa,75,0.73,54.75
+Papaya,Pink,Brazil,28,0.85,23.8
+Watermelon,Yellow,USA,91,2.86,260.26
+Banana,Red,Nigeria,19,3.23,61.37
+Apple,Green,India,4,4.89,19.56
+Pineapple,Purple,South Africa,42,3.72,156.24
+Grapes,Pink,India,85,1.01,85.85
+Mango,Purple,South Africa,96,2.86,274.56
+Grapes,Green,China,68,2.0,136.0
+Guava,Pink,Nigeria,20,3.78,75.6
+Apple,Pink,Mexico,60,3.88,232.8
+Mango,Pink,Brazil,11,3.75,41.25
+Apple,Orange,Nigeria,68,2.79,189.72
+Grapes,Green,Mexico,11,3.27,35.97
+Orange,Yellow,Spain,76,0.53,40.28
+Guava,Orange,Spain,4,1.61,6.44
+Mango,Orange,China,68,1.46,99.28
+Guava,Purple,Mexico,68,0.66,44.88
+Papaya,Yellow,India,25,3.74,93.5
+Papaya,Pink,USA,86,3.01,258.86
+Apple,Purple,USA,96,2.58,247.68
+Banana,Green,China,91,0.63,57.33
+Guava,Orange,China,13,4.68,60.84
+Banana,Red,South Africa,38,1.01,38.38
+Orange,Yellow,Spain,8,3.96,31.68
+Guava,Purple,Mexico,38,4.56,173.28
+Strawberry,Green,Mexico,67,1.05,70.35
+Guava,Green,South Africa,70,3.39,237.3
+Mango,Yellow,China,63,0.56,35.28
+Watermelon,Purple,India,93,4.15,385.95
+Strawberry,Red,South Africa,5,4.22,21.1
+Grapes,Orange,Nigeria,7,4.54,31.78
+Grapes,Green,Nigeria,71,1.51,107.21
+Orange,Pink,Brazil,53,3.61,191.33
+Strawberry,Green,Nigeria,73,0.65,47.45
+Banana,Pink,USA,60,1.98,118.8
+Strawberry,Purple,Nigeria,25,3.43,85.75
+Papaya,Pink,Nigeria,73,0.56,40.88
+Strawberry,Purple,Mexico,38,1.08,41.04
+Watermelon,Orange,South Africa,26,2.48,64.48
+Strawberry,Orange,Nigeria,25,2.23,55.75
+Banana,Purple,Brazil,41,4.18,171.38
+Banana,Green,Mexico,61,4.4,268.4
+Pineapple,Red,Nigeria,90,0.97,87.3
+Grapes,Purple,Mexico,54,3.99,215.46
+Strawberry,Yellow,South Africa,67,1.18,79.06
+Banana,Purple,South Africa,28,2.84,79.52
+Grapes,Green,Mexico,55,4.22,232.1
+Grapes,Pink,South Africa,52,0.79,41.08
+Banana,Yellow,USA,57,3.07,174.99
+Mango,Purple,India,75,1.78,133.5
+Pineapple,Orange,Mexico,71,4.11,291.81
+Strawberry,Orange,Nigeria,98,3.52,344.96
+Guava,Green,India,37,4.16,153.92
+Pineapple,Red,India,33,4.81,158.73
+Papaya,Yellow,USA,46,3.85,177.1
+Mango,Green,USA,88,4.49,395.12
+Orange,Red,USA,21,2.51,52.71
+Pineapple,Green,Nigeria,87,1.94,168.78
+Banana,Green,Brazil,95,2.32,220.4
+Orange,Green,Nigeria,9,3.94,35.46
+Papaya,Red,Mexico,19,4.51,85.69
+Banana,Purple,Brazil,31,3.9,120.9
+Pineapple,Purple,Brazil,88,4.09,359.92
+Papaya,Orange,Spain,46,4.24,195.04
+Strawberry,Yellow,Mexico,87,1.87,162.69
+Pineapple,Orange,India,12,1.74,20.88
+Pineapple,Yellow,Brazil,18,3.66,65.88
+Watermelon,Orange,India,72,3.18,228.96
+Guava,Pink,China,75,1.89,141.75
+Guava,Yellow,USA,60,3.25,195.0
+Pineapple,Yellow,Mexico,96,1.47,141.12
+Watermelon,Pink,Mexico,95,3.56,338.2
+Strawberry,Red,China,53,1.72,91.16
+Strawberry,Red,USA,68,3.44,233.92
+Orange,Yellow,China,80,1.41,112.8
+Pineapple,Red,Mexico,59,1.96,115.64
+Watermelon,Green,South Africa,55,0.72,39.6
+Papaya,Orange,India,20,0.53,10.6
+Banana,Orange,Spain,34,1.83,62.22
+Papaya,Yellow,Nigeria,33,0.77,25.41
+Mango,Yellow,South Africa,96,3.29,315.84
+Apple,Pink,China,82,3.07,251.74
+Apple,Pink,Spain,92,1.45,133.4
+Guava,Yellow,South Africa,61,4.06,247.66
+Mango,Orange,India,85,2.91,247.35
+Grapes,Red,China,10,0.81,8.1
+Orange,Yellow,Brazil,87,4.68,407.16
+Strawberry,Green,Nigeria,46,2.17,99.82
+Strawberry,Purple,USA,96,4.82,462.72
+Watermelon,Orange,Mexico,68,1.96,133.28
+Grapes,Red,India,59,0.53,31.27
+Banana,Yellow,South Africa,51,1.34,68.34
+Strawberry,Yellow,China,53,4.32,228.96
+Pineapple,Pink,Brazil,85,4.94,419.9
+Banana,Green,Spain,18,1.38,24.84
+Banana,Yellow,Spain,46,1.35,62.1
+Papaya,Orange,India,83,3.0,249.0
+Watermelon,Yellow,Spain,86,4.01,344.86
+Guava,Yellow,Brazil,40,2.71,108.4
+Guava,Orange,Nigeria,49,4.73,231.77
+Guava,Purple,Nigeria,75,4.51,338.25
+Orange,Yellow,Nigeria,27,2.35,63.45
+Guava,Purple,South Africa,9,4.36,39.24
+Strawberry,Yellow,Brazil,80,1.91,152.8
+Banana,Purple,USA,39,4.97,193.83
+Grapes,Yellow,Mexico,26,4.58,119.08
+Mango,Pink,India,93,2.12,197.16
+Banana,Pink,Mexico,89,3.68,327.52
+Grapes,Green,South Africa,88,4.76,418.88
+Pineapple,Yellow,Spain,72,4.05,291.6
+Orange,Yellow,USA,36,2.06,74.16
+Watermelon,Green,USA,9,4.5,40.5
+Guava,Green,South Africa,47,0.64,30.08
+Orange,Yellow,USA,14,4.93,69.02
+Banana,Pink,India,69,3.24,223.56
+Grapes,Purple,South Africa,26,0.53,13.78
+Watermelon,Purple,India,60,1.77,106.2
+Guava,Pink,Mexico,20,1.64,32.8
+Mango,Orange,South Africa,82,4.24,347.68
+Watermelon,Red,South Africa,12,3.53,42.36
+Guava,Pink,Nigeria,12,0.75,9.0
+Mango,Purple,Spain,31,4.89,151.59
+Mango,Purple,USA,8,1.3,10.4
+Guava,Pink,India,9,0.8,7.2
+Banana,Pink,Mexico,35,0.65,22.75
+Watermelon,Purple,Spain,94,4.1,385.4
+Watermelon,Red,China,15,2.35,35.25
+Papaya,Yellow,Brazil,83,2.33,193.39
+Apple,Orange,South Africa,27,1.44,38.88
+Grapes,Red,India,54,1.46,78.84
+Pineapple,Red,USA,43,1.78,76.54
+Guava,Orange,USA,87,4.4,382.8
+Mango,Red,Spain,93,3.27,304.11
+Grapes,Red,India,69,4.36,300.84
+Grapes,Pink,Nigeria,28,1.49,41.72
+Watermelon,Pink,China,2,0.66,1.32
+Apple,Yellow,Mexico,12,4.9,58.8
+Guava,Red,Nigeria,39,1.49,58.11
+Mango,Red,Nigeria,33,1.66,54.78
+Grapes,Purple,South Africa,60,4.45,267.0
+Papaya,Purple,South Africa,89,2.38,211.82
+Apple,Orange,India,22,3.51,77.22
+Banana,Orange,USA,10,3.25,32.5
+Banana,Yellow,USA,85,0.74,62.9
+Orange,Green,Nigeria,35,3.56,124.6
+Guava,Orange,China,22,4.46,98.12
+Apple,Red,China,42,3.03,127.26
+Grapes,Red,USA,2,0.89,1.78
+Banana,Pink,South Africa,90,4.09,368.1
+Papaya,Green,China,36,4.73,170.28
+Guava,Orange,Spain,54,3.97,214.38
+Pineapple,Purple,USA,10,2.24,22.4
+Papaya,Yellow,China,90,2.86,257.4
+Apple,Purple,India,33,4.54,149.82
+Watermelon,Green,USA,44,2.51,110.44
+Mango,Green,Brazil,15,3.22,48.3
+Pineapple,Pink,China,19,0.73,13.87
+Papaya,Pink,India,9,1.4,12.6
+Banana,Orange,Mexico,24,2.51,60.24
+Guava,Yellow,China,80,4.51,360.8
+Mango,Purple,China,27,3.77,101.79
+Watermelon,Orange,China,45,3.29,148.05
+Apple,Orange,Brazil,68,4.61,313.48
+Watermelon,Purple,Mexico,96,1.05,100.8
+Grapes,Purple,Spain,73,3.92,286.16
+Mango,Purple,India,83,3.19,264.77
+Mango,Yellow,China,60,2.97,178.2
+Strawberry,Pink,USA,78,0.63,49.14
+Apple,Green,Nigeria,91,3.6,327.6
+Orange,Pink,South Africa,90,1.9,171.0
+Apple,Pink,Mexico,64,2.89,184.96
+Guava,Red,Brazil,7,2.54,17.78
+Grapes,Yellow,USA,75,4.59,344.25
+Pineapple,Yellow,USA,11,2.56,28.16
+Guava,Pink,Brazil,29,2.31,66.99
+Grapes,Yellow,China,93,2.01,186.93
+Papaya,Purple,South Africa,13,0.69,8.97
+Papaya,Green,Spain,37,3.87,143.19
+Apple,Red,Mexico,76,2.51,190.76
+Grapes,Green,Spain,70,3.99,279.3
+Guava,Green,Spain,69,1.72,118.68
+Orange,Purple,South Africa,93,4.02,373.86
+Strawberry,Orange,South Africa,68,1.83,124.44
+Guava,Purple,Spain,49,4.55,222.95
+Apple,Pink,USA,23,1.04,23.92
+Orange,Orange,South Africa,47,3.03,142.41
+Grapes,Red,China,94,1.36,127.84
+Watermelon,Purple,USA,95,2.1,199.5
+Banana,Pink,Mexico,81,1.1,89.1
+Grapes,Green,China,68,4.92,334.56
+Watermelon,Orange,Spain,86,1.29,110.94
+Grapes,Purple,South Africa,66,2.21,145.86
+Guava,Red,USA,60,2.94,176.4
+Banana,Green,China,79,3.14,248.06
+Guava,Yellow,Spain,22,0.77,16.94
+Orange,Red,Nigeria,80,4.12,329.6
+Mango,Yellow,Mexico,99,1.26,124.74
+Watermelon,Red,Brazil,79,2.83,223.57
+Orange,Yellow,Brazil,39,2.03,79.17
+Papaya,Yellow,Mexico,72,1.38,99.36
+Orange,Red,Brazil,48,3.32,159.36
+Grapes,Yellow,USA,73,4.22,308.06
+Banana,Green,Nigeria,45,4.67,210.15
+Grapes,Purple,South Africa,44,1.67,73.48
+Pineapple,Red,Spain,100,1.91,191.0
+Pineapple,Green,Spain,54,2.37,127.98
+Grapes,Purple,India,83,2.73,226.59
+Banana,Green,Nigeria,93,1.75,162.75
+Banana,Yellow,USA,41,1.97,80.77
+Banana,Orange,India,16,2.78,44.48
+Strawberry,Green,Nigeria,5,3.46,17.3
+Pineapple,Green,Brazil,66,4.15,273.9
+Papaya,Yellow,Brazil,65,3.67,238.55
+Banana,Green,Spain,34,4.28,145.52
+Pineapple,Green,USA,97,3.32,322.04
+Grapes,Purple,Nigeria,79,2.5,197.5
+Orange,Yellow,Nigeria,29,1.44,41.76
+Strawberry,Purple,Spain,23,3.81,87.63
+Orange,Purple,India,19,3.58,68.02
+Banana,Purple,South Africa,57,2.85,162.45
+Pineapple,Red,India,21,4.16,87.36
+Grapes,Purple,Mexico,38,3.2,121.6
+Watermelon,Yellow,China,19,2.56,48.64
+Papaya,Green,USA,80,0.66,52.8
+Orange,Orange,Brazil,25,2.79,69.75
+Strawberry,Purple,USA,37,2.17,80.29
+Banana,Pink,South Africa,85,3.29,279.65
+Orange,Yellow,USA,28,1.53,42.84
+Grapes,Green,Brazil,22,3.98,87.56
+Orange,Purple,Brazil,36,3.84,138.24
+Papaya,Yellow,South Africa,7,0.72,5.04
+Apple,Pink,USA,12,1.57,18.84
+Papaya,Orange,India,98,4.13,404.74
+Papaya,Yellow,China,88,2.89,254.32
+Banana,Purple,Mexico,84,4.26,357.84
+Banana,Pink,India,66,1.32,87.12
+Guava,Orange,China,98,1.94,190.12
+Banana,Red,Mexico,80,1.99,159.2
+Strawberry,Green,Spain,48,0.75,36.0
+Watermelon,Orange,Brazil,27,4.79,129.33
+Orange,Yellow,USA,75,3.59,269.25
+Apple,Green,South Africa,45,1.17,52.65
+Grapes,Green,USA,1,2.0,2.0
+Mango,Red,USA,98,4.52,442.96
+Banana,Pink,Spain,93,1.53,142.29
+Grapes,Pink,USA,48,3.64,174.72
+Watermelon,Yellow,Mexico,65,1.8,117.0
+Watermelon,Pink,India,79,2.76,218.04
+Banana,Purple,Spain,72,1.6,115.2
+Grapes,Red,Spain,28,2.07,57.96
+Watermelon,Red,South Africa,90,3.29,296.1
+Banana,Purple,Nigeria,62,3.97,246.14
+Orange,Pink,China,30,3.32,99.6
+Guava,Yellow,USA,79,4.79,378.41
+Papaya,Red,USA,80,0.52,41.6
+Watermelon,Red,China,71,3.62,257.02
+Apple,Yellow,South Africa,18,2.36,42.48
+Papaya,Purple,China,14,1.43,20.02
+Watermelon,Yellow,Mexico,1,3.48,3.48
+Apple,Pink,China,7,0.58,4.06
+Strawberry,Pink,Spain,50,4.15,207.5
+Grapes,Red,India,1,2.02,2.02
+Pineapple,Purple,India,48,3.98,191.04
+Apple,Green,Spain,85,4.98,423.3
+Orange,Pink,Brazil,26,2.68,69.68
+Watermelon,Orange,Mexico,92,3.73,343.16
+Orange,Green,Mexico,31,1.22,37.82
+Orange,Pink,Spain,5,3.0,15.0
+Strawberry,Green,South Africa,18,1.31,23.58
+Grapes,Purple,India,62,1.77,109.74
+Pineapple,Orange,USA,22,4.57,100.54
+Mango,Yellow,Mexico,55,2.82,155.1
+Strawberry,Purple,Brazil,98,3.29,322.42
+Papaya,Pink,South Africa,64,4.91,314.24
+Papaya,Yellow,Brazil,88,2.49,219.12
+Apple,Purple,South Africa,28,1.37,38.36
+Watermelon,Yellow,India,75,0.77,57.75
+Banana,Pink,Spain,74,2.4,177.6
+Apple,Orange,India,50,2.82,141.0
+Apple,Green,South Africa,80,4.89,391.2
+Watermelon,Red,Spain,70,3.61,252.7
+Mango,Green,Nigeria,25,1.01,25.25
+Apple,Red,Nigeria,70,3.99,279.3
+Mango,Red,Nigeria,12,0.57,6.84
+Strawberry,Red,Brazil,78,4.2,327.6
+Banana,Pink,USA,1,3.86,3.86
+Apple,Pink,South Africa,83,0.93,77.19
+Watermelon,Purple,India,29,2.35,68.15
+Watermelon,Green,Spain,93,3.09,287.37
+Strawberry,Orange,Spain,56,3.47,194.32
+Pineapple,Orange,India,63,2.38,149.94
+Grapes,Yellow,Brazil,31,0.73,22.63
+Orange,Red,South Africa,62,3.83,237.46
+Strawberry,Yellow,China,55,1.67,91.85
+Banana,Purple,Spain,55,1.31,72.05
+Apple,Orange,South Africa,35,4.38,153.3
+Strawberry,Pink,Brazil,4,3.74,14.96
+Mango,Green,South Africa,36,3.66,131.76
+Apple,Orange,India,70,4.75,332.5
+Strawberry,Yellow,China,4,2.65,10.6
+Strawberry,Purple,China,77,0.52,40.04
+Papaya,Purple,China,48,3.03,145.44
+Watermelon,Red,USA,21,1.12,23.52
+Watermelon,Green,India,58,4.44,257.52
+Papaya,Yellow,South Africa,41,3.54,145.14
+Apple,Purple,China,38,2.73,103.74
+Guava,Red,Nigeria,55,0.56,30.8
+Pineapple,Green,India,83,4.9,406.7
+Apple,Orange,China,5,4.25,21.25
+Banana,Green,Nigeria,62,4.46,276.52
+Pineapple,Pink,Nigeria,1,3.93,3.93
+Watermelon,Purple,USA,47,1.73,81.31
+Mango,Red,Mexico,6,4.8,28.8
+Mango,Purple,Spain,78,3.45,269.1
+Apple,Red,Brazil,73,3.27,238.71
+Strawberry,Purple,South Africa,32,2.06,65.92
+Orange,Orange,South Africa,46,4.28,196.88
+Orange,Green,Brazil,91,0.84,76.44
+Apple,Green,Nigeria,18,0.8,14.4
+Strawberry,Pink,USA,65,1.14,74.1
+Strawberry,Green,Mexico,93,2.6,241.8
+Orange,Orange,India,58,1.64,95.12
+Pineapple,Pink,China,99,1.49,147.51
+Pineapple,Purple,Brazil,85,1.13,96.05
+Apple,Purple,India,75,1.42,106.5
+Guava,Orange,Brazil,50,2.69,134.5
+Apple,Green,Mexico,87,3.78,328.86
+Papaya,Green,Spain,61,2.02,123.22
+Papaya,Purple,Brazil,23,2.91,66.93
+Papaya,Orange,China,75,3.51,263.25
+Banana,Yellow,Brazil,89,4.36,388.04
+Watermelon,Orange,India,47,3.57,167.79
+Watermelon,Pink,Brazil,42,2.39,100.38
+Guava,Green,USA,23,2.32,53.36
+Banana,Green,China,66,0.86,56.76
+Guava,Yellow,Nigeria,93,1.03,95.79
+Orange,Yellow,Spain,6,1.36,8.16
+Mango,Pink,India,93,3.06,284.58
